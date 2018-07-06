@@ -7,9 +7,5 @@ for item in range(k):
         FibanocciSeries.append(FibanocciSeries[-1]+FibanocciSeries[-2])
     else:
         FibanocciSeries = [0,1]
-        
- print (FibanocciSeries)
- """
- Now Print FibanocciSeries
- """
+print (FibanocciSeries)
  
